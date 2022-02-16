@@ -21,5 +21,18 @@
   <img align="center" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
 </div>
 
+## Vídeos
+-[Video 1]()<br/>
+-[Video 2]()<br/>
+-[Video 3]()<br/>
+-[Video 4]()<br/>
+
+## Leituras
+-[Livro 1]()<br/>
+-[Livro 2]()<br/>
+-[Livro 3]()<br/>
+-[Livro 4]()<br/>
+
+
 
 
