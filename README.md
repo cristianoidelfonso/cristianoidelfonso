@@ -44,17 +44,21 @@
 <br>
 <hr>
 
+<!--
 ## Cursos
 - [Em breve]
 
 <br>
 <hr>
+-->
 
+<!--
 ## Site
 - [Em breve]
 
 <br>
 <hr>
+-->
 
 <!--
 ## Vídeos
